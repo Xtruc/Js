@@ -1,0 +1,21 @@
+alert("test") = Boite de dialogue
+alert(typeof variable) = Affiche genre variable
+prompt('Message à afficher') = recupere une information du client
+parseInt(variable) = traduit la variable en chiffres
+texte = number1 + '' + number2 = convertir chiffre en chaines de caractéres
+confirm("Afficher sur l'infobulle") = renvoie true ou false en fonction de la reponse
+return = retourne la valeur
+Var 
+{
+	.lenght
+	.toUpperCase() (Mettre en maj)
+	.toLowerCase() (A ton avis ?)
+	.push(Contenu des nouvelles cases) (Ajoute des cases)
+	.unshift(Contenu des nouvelles cases) (Ajoute des cases mais à la fin)
+	.shift() (Retire la premiére case)
+	.pop() (Retire la derniére case)
+	.split(le caractere)(Coupe une chaine de caracteres à chaque fois qu'il rencontre le caractere et en forme un tableau)
+	.join() (inverse de .split tableau -> chaine de caractere)
+}
+
+isNan(variable) = renvoie true sur le var est pas un nombre et false inversement
